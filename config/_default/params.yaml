@@ -1,13 +1,12 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: idaejin
   font: minimal
   font_size: M
 
@@ -18,17 +17,159 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-Z04H7RM37H'
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
 
+# Contact (edit or remove options as required)
+
+email: Dae-Jin.Lee@ie.edu
+phone:
+address:
+  street: IE Tower - Paseo Castellana 259E
+  city: Madrid
+  region:
+  postcode: '28029'
+  country: Spain
+  country_code: SP
+coordinates:
+  latitude: "40.47819623003099"
+  longitude: "-3.6890319048783278"
+directions:
+office_hours:
+#  - 'Monday to Friday: 9:00 am to 5:00 pm (Central European Time - CET)'
+appointment_url:
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Direct Message me on Twitter
+    link: 'https://twitter.com/idaejin'
+  - icon: linkedin
+    icon_pack: fab
+    name: Direct Message me on Linkedin
+    link: 'https://www.linkedin.com/in/idaejin/'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
+
+# Site header
+
+main_menu:
+  enable: true
+  align: r
+  show_logo: TRUE
+  show_language: false
+  show_day_night: true
+  show_search: false
+  highlight_active_link: true
+
+# Localization
+
+date_format: 'March 20, 2023'
+time_format: '3:04 PM'
+address_format: en-us
+
+# Site features
+
+highlight: true
+highlight_languages:
+  - r
+  - python
+  - latex
+math: false
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
+  editable:
+    page: false
+    post: false
+    book: false
+show_related:
+  book: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
+reading_time: true
+section_pager: false
+docs_section_pager: true
+sharing: true
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+abstract_length: 135
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
+comments:
+  provider: ''
+  commentable:
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: mapnik
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: ''
+  # google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
+cms:
+  branch: master
+  local_backend: false
+icon:
+  pack:
+    ai: false
+    
 # Site header
 
 header:
@@ -36,7 +177,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -45,17 +186,18 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
+       # © {year} Dae-Jin Lee. {license}
     license:
-      enable: true
-      allow_derivatives: false
+      enable: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Dec 26, 2023'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -63,16 +205,18 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    enable: true
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/idaejin'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle
@@ -83,11 +227,6 @@ features:
       show_count: true
     commento:
       url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -96,7 +235,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
