@@ -3,7 +3,7 @@
 title: Dae-Jin Lee
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Dae-Jin Lee
 
 # Full name (for SEO)
 first_name: Dae-Jin
@@ -122,5 +122,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am assistant professor in Data Science and researcher at the School of Science & Technology at IE University and Chief Scientist of the Health & Tech Lab at ImpactXcelerator. Before joining IE University, from 2014 to 2022, I was a researcher at BCAM - Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit at the Center. From 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (the Commonwealth Industrial and Research Organization), Division of Mathematics and Statistics, today Data61, in Melbourne, Australia.
+My current research is Biostatistics, statistical modelling with applications in Health, biomedical applications, environmental modelling and sports sciences.
 {style="text-align: justify;"}
