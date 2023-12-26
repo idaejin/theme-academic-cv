@@ -39,7 +39,7 @@ social:
   link: https://twitter.com/idaejin
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=hsCRT4EAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=hsCRT4EAAAAJ&view_op=list_works&sortby=pubdate
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-8995-8535
