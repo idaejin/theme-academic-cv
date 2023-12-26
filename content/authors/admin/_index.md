@@ -50,41 +50,6 @@ education:
     - course: BSc in Business Administration
       institution: Universidad Carlos III de Madrid
       year: 2002
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-     - name: R
-        description: ''
-        percent: 80
-        icon: r-project
-        icon_pack: fab
-      - name: Python
-        description: ''
-        percent: 60
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-        
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Cycling
-        description: ''
-        percent: 60
-        icon: person-cycling
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
