@@ -122,6 +122,11 @@ social:
 highlight_name: true
 ---
 
-I am assistant professor in Data Science and researcher at the School of Science & Technology at IE University and Chief Scientist of the Health & Tech Lab at ImpactXcelerator. Before joining IE University, from 2014 to 2022, I was a researcher at BCAM - Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit at the Center. From 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (the Commonwealth Industrial and Research Organization), Division of Mathematics and Statistics, today Data61, in Melbourne, Australia.
+I am assistant professor in Data Science and researcher at the School of Science & Technology at IE University and Chief Scientist of the Health & Tech Lab at ImpactXcelerator. 
+
+Before joining IE University, from 2014 to 2022, I was a researcher at BCAM - Basque Center for Applied Mathematics in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the Knowledge Transfer Unit at the Center. 
+
+From 2011 to 2014, I was a Postdoctoral Fellow at CSIRO (the Commonwealth Industrial and Research Organization), Division of Mathematics and Statistics, today Data61, in Melbourne, Australia.
+
 My current research is Biostatistics, statistical modelling with applications in Health, biomedical applications, environmental modelling and sports sciences.
 {style="text-align: justify;"}
