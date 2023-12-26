@@ -30,7 +30,7 @@ role: Full time assistant professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:DaeJin.Lee@ie.edu
+  link: mailto:Dae-Jin.Lee@ie.edu
 - display:
     header: true
   icon: twitter
