@@ -3,7 +3,7 @@
 title: Dae-Jin Lee
 
 # Name pronunciation (optional)
-name_pronunciation: Dae-Jin Lee
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Dae-Jin
@@ -41,21 +41,28 @@ education:
     - course: PhD in Mathematical Engineering (area of Statistics)
       institution: Universidad Carlos III de Madrid
       year: 2010
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: Master in Mathematial Engineering (Area of Statistics)
+      institution: Universidad Carlos III de Madrid
+      year: 2006
+    - course: BSc in Statistics
+      institution: Universidad Carlos III de Madrid
+      year: 2004
+    - course: BSc in Business Administration
+      institution: Universidad Carlos III de Madrid
+      year: 2002
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+     - name: R
         description: ''
         percent: 80
+        icon: python
+        icon_pack: fab
+      - name: Python
+        description: ''
+        percent: 60
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -63,24 +70,15 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Cycling
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        icon: person-cycling
         icon_pack: fas
       - name: Photography
         description: ''
