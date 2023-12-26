@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Data Science
+role: Assistant Professor of Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,16 +29,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Semi-parametric regression
+  - Mixed-effects Models
+  - Survival Analysis
+  - Spatio-temporal modelling
+  - Sports Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Mathematical Engineering (area of Statistics)
+      institution: Universidad Carlos III de Madrid
+      year: 2010
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
