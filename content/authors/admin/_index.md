@@ -57,7 +57,7 @@ I am assistant professor in Data Science and researcher at the [School of Scienc
 
 Before joining IE University, from 2014 to 2022, I was a researcher at [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org/en/) in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit) at the Center.
 
-From 2011 to 2014, I was a Postdoctoral Fellow at [CSIRO](https://www.csiro.au/en/) (the Commonwealth Industrial and Research Organization), Division of Mathematics and Statistics, today [Data61](https://research.csiro.au/data61/), in Melbourne, Australia.
+From 2011 to 2014, I was a Postdoctoral Fellow at [CSIRO](https://www.csiro.au/en/) (the Commonwealth Industrial and Research Organization), Division of Mathematics and Statistics, today [Data61](https://research.csiro.au/data61/), in [Melbourne, Australia](https://www.visitmelbourne.com/).
 
 My current research is Biostatistics, statistical modelling with applications in Health, biomedical applications, environmental modelling and sports sciences.
 
