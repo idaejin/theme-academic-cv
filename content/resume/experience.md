@@ -26,7 +26,7 @@ experience:
   - title: Full-time Assistant Professor
     company: School of Science and Technology, IE University 
     company_url: 'https://www.ie.edu'
-    company_logo: logo_bcam-ehu
+    company_logo: 
     location: Madrid, Spain
     date_start: '2023-01-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Research line leader
     company: BCAM - Basque Center for Applied Mathematics
     company_url: 'https://www.statistik.uni-muenchen.de/index.html'
-    company_logo: logo_bcam
+    company_logo: 
     location: Bilbao, Bizkaia, Basque Country
     date_start: '2014-05-31'
     date_end: '2022-12-31'
@@ -44,7 +44,7 @@ experience:
   - title: Knowledge Transfer Unit Data Science Coordinator
     company: BCAM - Basque Center for Applied Mathematics
     company_url: 'http://www.bcamath.org/en/'
-    company_logo: logo_bcam
+    company_logo: 
     location: Bilbao, Bizkaia, Basque Country
     date_start: '2020-01-01'
     date_end: '2023-12-31'
@@ -53,7 +53,7 @@ experience:
   - title: Postdoctoral Fellow
     company: CSIRO, Commonwealth Scientific and Research Organization
     company_url: 'https://www.csiro.au/en/'
-    company_logo: logo_CSIRO
+    company_logo: 
     location: Melbourne, Victoria, Australia
     date_start: '2011-03-15'
     date_end: '2014-03-15'
@@ -62,7 +62,7 @@ experience:
   - title: Lecturer
     company: Universidad Carlos III de Madrid, Spain
     company_url: 'https://www.uc3m.es/'
-    company_logo: logo_uc3m
+    company_logo: 
     location: Leganés, Madrid, Spain
     date_start: '2010-09-01'
     date_end: '2011-03-01'
@@ -71,7 +71,7 @@ experience:
   - title: Teaching Assistant and PhD Student
     company: Universidad Carlos III de Madrid, Spain
     company_url: 'https://www.uc3m.es/'
-    company_logo: logo_uc3m
+    company_logo: 
     location: Leganés, Madrid, Spain
     date_start: '2010-08-01'
     date_end: '2006-09-01'
