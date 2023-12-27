@@ -53,7 +53,6 @@ superuser: true
 title: Dae-Jin Lee PhD.
 ---
 
-
 I am assistant professor in Data Science and researcher at the [School of Science & Technology](https://www.ie.edu/school-science-technology/) at [IE University](https://www.ie.edu/) and Chief Scientist of the [Health & Tech Lab](https://www.ie.edu/impactxcelerator/areas/health-technology/) at [ImpactXcelerator](https://www.ie.edu/impactxcelerator/).
 
 Before joining IE University, from 2014 to 2022, I was a researcher at [BCAM - Basque Center for Applied Mathematics](http://www.bcamath.org/en/) in Bilbao, where I led the research line in Applied Statistics and coordinated the area of Data Science and Artificial Intelligence of the [Knowledge Transfer Unit](https://www.bcamath.org/en/knowledge-transfer/knowledge-transfer-unit) at the Center.
